@@ -1,6 +1,6 @@
 name: お問い合わせ
 description: MERINPOに関するご質問・不具合報告・ご要望はこちらから
-title: "[Contact] "
+title: "[問い合わせ] "
 labels: ["contact"]
 body:
   - type: input
@@ -23,7 +23,7 @@ body:
     id: content
     attributes:
       label: お問い合わせ内容
-      description: 不具合内容・要望・その他ご連絡事項をご記入ください
+      description: ご質問・不具合報告・ご要望・その他連絡事項をご記入ください
       placeholder: できるだけ詳しくご記載ください
     validations:
       required: true
